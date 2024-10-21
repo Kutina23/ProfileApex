@@ -328,7 +328,7 @@ let userMessage = null; // Variable to store user's message
 const inputInitHeight = chatInput.scrollHeight;
 
 // Replace with your valid OpenAI API key
-const API_KEY = "sk-J8TmVpoF0s35EqtFd21AwLeRstpZ3ngniyAFQry3KDT3BlbkFJMvkd3tF5t6Ag19SoklsFTotvKy1qa22W9IA5Ira0YA"; 
+const API_KEY = "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"; 
 const API_URL = "https://api.openai.com/v1/chat/completions";
 
 let statsData = null; // Variable to store the fetched data
